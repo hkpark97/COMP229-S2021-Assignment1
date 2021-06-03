@@ -1,0 +1,16 @@
+/* your custom css goes here */
+
+/* 
+file: assignment 1 
+ author: Hyekyeong Park (Kate)
+ student ID: 301148613
+Date: Jun 02 2021 */
+
+.card {
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+    width:350px;
+    height: 550px;
+}
+
